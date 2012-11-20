@@ -16,7 +16,6 @@
 
 package com.kth.common.preference;
 
-import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.SharedPreferences;
 

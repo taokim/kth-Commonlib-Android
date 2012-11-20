@@ -16,7 +16,6 @@
 
 package com.kth.common.location;
 
-import android.annotation.TargetApi;
 import android.app.PendingIntent;
 import android.location.Criteria;
 import android.location.LocationManager;
